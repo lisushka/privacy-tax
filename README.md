@@ -13,6 +13,7 @@
 * [**OpenAPS**](https://openaps.org/) [(source code)](https://github.com/openaps)
 * [**OpenAAC**](https://www.openaac.org/) [(list of projects)](https://www.openaac.org/aac.html)
 * [**The Open Wheelchair Foundation**](https://openwheelchair.org/) [(plans)](https://www.openwheelchair.org/Plans/)
+* [**Open-Source Ventilator Information**](https://opensourceventilator.org/) [(list)](https://opensourceventilator.org/#initiatives)
 
 ## News and Current Affairs
 
