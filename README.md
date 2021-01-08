@@ -17,12 +17,13 @@
 
 ## News and Current Affairs
 
-* [Woman with disability wins NDIS funding for sex therapist in 'precedent-setting' case](https://www.abc.net.au/news/2019-07-11/ndis-to-pay-for-sex-therapist-after-landmark-ruling/11298838), **ABC Online**, 2019-07-11
-* [More Than 45 Million Medical Images Openly Accessible Online](https://cybelangel.com/blog/medical-data-leaks/), **CybelAngel**, 2020-12-14
-* [People Are Clamoring to Buy Old Insulin Pumps](https://www.theatlantic.com/science/archive/2019/04/looping-created-insulin-pump-underground-market/588091/), **The Atlantic**, 2019-04-30
-* [You Snooze, You Lose: Insurers Make The Old Adage Literally True](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true), **ProPublica**, 2018-11-21
-* ['Like Being Grilled Alive': The Fear of Living With a Hackable Heart](https://onezero.medium.com/i-live-with-a-digital-security-threat-inside-my-body-ca6b9da0b316), **OneZero**, 2020-11-18
+* [Woman with disability wins NDIS funding for sex therapist in 'precedent-setting' case](https://www.abc.net.au/news/2019-07-11/ndis-to-pay-for-sex-therapist-after-landmark-ruling/11298838), **Norman Hermant and Emily Clark**, *ABC Online*, 2019-07-11
+* [More Than 45 Million Medical Images Openly Accessible Online](https://cybelangel.com/blog/medical-data-leaks/), *CybelAngel*, 2020-12-14
+* [People Are Clamoring to Buy Old Insulin Pumps](https://www.theatlantic.com/science/archive/2019/04/looping-created-insulin-pump-underground-market/588091/), **Sarah Zhang**, *The Atlantic*, 2019-04-30
+* [You Snooze, You Lose: Insurers Make The Old Adage Literally True](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true), **Marshall Allen**, *ProPublica*, 2018-11-21
+* ['Like Being Grilled Alive': The Fear of Living With a Hackable Heart](https://onezero.medium.com/i-live-with-a-digital-security-threat-inside-my-body-ca6b9da0b316), **Jameson Rich**, *OneZero*, 2020-11-18
 
 ## Cautionary Tales
 
 * [Autism and the web: using web-searching tasks to detect autism and improve web accessibility](https://dl.acm.org/doi/10.1145/3264631.3264633), **Victoria Yaneva**, *ACM SIGACCESS Accessibility and Computing, August 2018*
+* [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](),  **Jacob Snow**, *American Civil Liberties Union*, 2018-07-26
