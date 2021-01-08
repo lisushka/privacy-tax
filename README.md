@@ -24,6 +24,12 @@
 * [You Snooze, You Lose: Insurers Make The Old Adage Literally True](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true), **Marshall Allen**, *ProPublica*, 2018-11-21
 * ['Like Being Grilled Alive': The Fear of Living With a Hackable Heart](https://onezero.medium.com/i-live-with-a-digital-security-threat-inside-my-body-ca6b9da0b316), **Jameson Rich**, *OneZero*, 2020-11-18
 
+## De-Anonymised Data Sets
+
+* ['Shocking' myki privacy breach for millions of users in data release](https://www.abc.net.au/news/2019-08-15/myki-data-spill-breaches-privacy-for-millions-of-users/11416616),  **Mary Gearin**, *ABC Online*, 2019-08-15
+* [Health Data in an Open World](https://arxiv.org/abs/1712.05627), **Chris Culnane, Benjamin I. P. Rubinstein, and Vanessa Teague**, *arXiv:1712.05627*
+* [On Taxis And Rainbows](https://tech.vijayp.ca/of-taxis-and-rainbows-f6bc289679a1), **Vijay Pandurangan**, 2014-06-22
+
 ## Cautionary Tales
 
 * [Autism and the web: using web-searching tasks to detect autism and improve web accessibility](https://dl.acm.org/doi/10.1145/3264631.3264633), **Victoria Yaneva**, *ACM SIGACCESS Accessibility and Computing, August 2018*
