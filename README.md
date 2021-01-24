@@ -30,6 +30,15 @@
 * [Health Data in an Open World](https://arxiv.org/abs/1712.05627), **Chris Culnane, Benjamin I. P. Rubinstein, and Vanessa Teague**, *arXiv:1712.05627*
 * [On Taxis And Rainbows](https://tech.vijayp.ca/of-taxis-and-rainbows-f6bc289679a1), **Vijay Pandurangan**, 2014-06-22
 
+## The Australian Government and Private Data
+
+### My Health Record
+
+* [About My Health Record](https://www.healthdirect.gov.au/my-health-record)
+* [The Australian Privacy Foundation's statement on My Health Record](https://www.privacy.org.au/Campaigns/MyHR/)
+* [Stronger My Health Record privacy laws](https://www.myhealthrecord.gov.au/about/legislation-and-governance/summary-privacy-protections)
+* [Cancelling a My Health Record, including current data retention policies](https://www.myhealthrecord.gov.au/for-you-your-family/howtos/cancel-my-record)
+
 ## Cautionary Tales
 
 * [Autism and the web: using web-searching tasks to detect autism and improve web accessibility](https://dl.acm.org/doi/10.1145/3264631.3264633), **Victoria Yaneva**, *ACM SIGACCESS Accessibility and Computing, August 2018*
