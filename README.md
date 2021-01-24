@@ -13,7 +13,7 @@
 * [**OpenAPS**](https://openaps.org/) [(source code)](https://github.com/openaps)
 * [**OpenAAC**](https://www.openaac.org/) [(list of projects)](https://www.openaac.org/aac.html)
 * [**The Open Wheelchair Foundation**](https://openwheelchair.org/) [(plans)](https://www.openwheelchair.org/Plans/)
-* [**Made For My Wheelchair** de|en](http://www.madeformywheelchair.de/) [(Open Lights plans)](http://www.madeformywheelchair.de/data/DIY_Instructions_OPENLIGHTS.pdf) [(Open Trailer plans)](http://www.madeformywheelchair.de/data/DIY_Instructions_OPENTRAILER.pdf)
+* [**Made For My Wheelchair** [de|en]](http://www.madeformywheelchair.de/) [(Open Lights plans)](http://www.madeformywheelchair.de/data/DIY_Instructions_OPENLIGHTS.pdf) [(Open Trailer plans)](http://www.madeformywheelchair.de/data/DIY_Instructions_OPENTRAILER.pdf)
 * [**Open-Source Ventilator Information**](https://opensourceventilator.org/) [(list)](https://opensourceventilator.org/#initiatives)
 
 ## News and Current Affairs
