@@ -1,4 +1,4 @@
-# The Privacy Tax - Further Reading
+# The Privacy Tax
 
 ## Talks
 
