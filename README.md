@@ -2,7 +2,7 @@
 
 ## Recordings
 
-- linux.conf.au 2021, 2021-01-24 (open captions)
+- [linux.conf.au 2021](https://www.youtube.com/watch?v=J2NyQ4b3JPU), 2021-01-24 (open captions)
 
 ## References
 
