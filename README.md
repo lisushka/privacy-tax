@@ -1,4 +1,4 @@
-# The Privacy Tax
+# The Privacy Tax: How tracking and hacking affect disabled people, and what we can do about it
 
 ## Recordings
 
