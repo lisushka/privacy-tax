@@ -50,3 +50,5 @@
 ### Cautionary Tales
 
 * [Autism and the web: using web-searching tasks to detect autism and improve web accessibility](https://dl.acm.org/doi/10.1145/3264631.3264633), **Victoria Yaneva**, *ACM SIGACCESS Accessibility and Computing, August 2018*
+
+[Back to main talks repo](https://github.com/lisushka/talks)
